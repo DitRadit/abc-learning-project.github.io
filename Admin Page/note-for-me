@@ -1,0 +1,5 @@
+MAKE SURE TO PUT THE .htpasswd FILE OUTSIDE THE WEB ROOT
+
+
+user : admin-abc
+password : password1
